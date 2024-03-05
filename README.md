@@ -1,5 +1,5 @@
 # get_next_line
-The get_next_line() function resembles the standard getline() function. It lets you read the text file pointed to by the file descriptor, one line at a time.
+Since in ecole 42 we are not allowed to use the C standard functions, so the get_next_line(); function is a self implemented of the standard getline(); function. The get_next_line() function resembles the standard getline() function. It lets you read the text file pointed to by the file descriptor, one line at a time.
 
 ### return value:
 It returns the line that was read. If there is nothing else to read or if an error occurred, it should return NULL.
