@@ -15,13 +15,18 @@ Instructions
 
 Compiling the program
 
+```
 $ make
+```
 
 Executing the program
 
+```
 $ ./gnl
+```
 
-📑 Index
+# 📑 Index
+
 @root
 
 📁 inc: contains the program's headers.
